@@ -1,0 +1,11 @@
+.Session{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Total-Session{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

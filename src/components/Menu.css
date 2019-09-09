@@ -1,0 +1,9 @@
+.Menu{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+}
+.FaMenu{
+    width: 35px;
+    height: 35px;
+}

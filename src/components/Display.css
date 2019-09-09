@@ -1,0 +1,11 @@
+.Display{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Total-Display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
